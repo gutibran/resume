@@ -1,2 +1,2 @@
 # resume
-A resume built with LaTeX. Used this [template](https://www.overleaf.com/latex/templates/cis-grad-template-dev/pjcttwysqvym).
+A resume built with LaTeX. A [template](https://www.overleaf.com/latex/templates/cis-grad-template-dev/pjcttwysqvym) on Overleaf was used.
