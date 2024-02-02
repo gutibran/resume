@@ -1,5 +1,5 @@
 # resume
-For the HR ladies.
+For the HR ladies in tech.
 
 Alter GitHub Actions script for this.
 ```bash
