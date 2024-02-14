@@ -35,5 +35,5 @@ jobs:
             git fetch origin master
             git reset --hard FETCH_HEAD
             git clean -d -f --exclude secrets
-            pdflatex resume.tex
-            cp /home/linuxuser/resume/resume.pdf /home/linuxuser/gutibran.com/public/brandon-gutierrez-resume.pdf
+            pdflatex résumé.tex
+            cp /home/linuxuser/résumé/résumé.pdf /home/linuxuser/gutibran.com/public/brandon-gutierrez-résumé.pdf
