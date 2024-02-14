@@ -36,4 +36,4 @@ jobs:
             git reset --hard FETCH_HEAD
             git clean -d -f --exclude secrets
             pdflatex résumé.tex
-            cp /home/linuxuser/résumé/résumé.pdf /home/linuxuser/gutibran.com/public/brandon-gutierrez-résumé.pdf
+            cp /home/linuxuser/resume/résumé.pdf /home/linuxuser/gutibran.com/public/brandon-gutierrez-résumé.pdf
