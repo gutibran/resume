@@ -1,4 +1,4 @@
 # résumé
-For the HR ladies. All of them. The fit, smart, and sophisticated, plays an instrument type of HR ladies.
+My résumé. Dedicated to all the recruiter ladies across the nation.
 
-![HR lady](https://www.shutterstock.com/shutterstock/photos/1414607567/display_1500/stock-photo-beautiful-smiling-caucasian-blonde-female-blogger-dressed-smart-casual-sitting-in-cafeteria-and-1414607567.jpg)
+![recruiter](/.1.png)
