@@ -1,5 +1,4 @@
 # résumé
-My résumé. Dedicated to all the recruiter ladies across the nation.
+My résumé. Dedicated to all the recruiter, HR, and office ladies across the world.
 
 ![recruiter-lady](recruiter-lady-1.png)
-![recruiter-lady](recruiter-lady-0.png)
